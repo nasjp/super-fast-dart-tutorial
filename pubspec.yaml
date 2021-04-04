@@ -1,0 +1,6 @@
+name: super_fast_dart_tutorial
+version: 1.0.0
+description: >-
+  This is a super fast dart tutorial.
+environment:
+  sdk: '>=2.10.0-56.0.dev <3.0.0'
